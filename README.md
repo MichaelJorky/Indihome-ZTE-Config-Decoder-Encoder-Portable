@@ -140,10 +140,6 @@ Pada **Advanced Mode**:
 Contoh argumen:
 
 ```
---payload-type 0
-```
-
-```
 --payload-type 4 --serial ZTE123456789 --mac AA:BB:CC:11:22:33
 ```
 
