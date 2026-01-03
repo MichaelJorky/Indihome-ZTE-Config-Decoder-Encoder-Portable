@@ -19,7 +19,7 @@ Project ini ditujukan untuk **pemula maupun advanced user** yang ingin:
 * ✅ Support payload **Type 0 – 6**
 * ✅ Advanced mode (full argumen via `--help`)
 * ✅ Output otomatis & aman
-* ✅ Cocok untuk router ZTE Indihome / OEM
+* ✅ Cocok untuk router OEM ZTE (Indihome, Telkomsel One, PLDT, GLOBE, MyRepublic, Biznet, MNC Play, XL Satu)
 
 ---
 
