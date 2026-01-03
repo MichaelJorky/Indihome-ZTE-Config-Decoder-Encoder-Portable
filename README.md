@@ -1,4 +1,4 @@
-# 📦 Indihome / ZTE Config Decoder & Encoder (Portable)
+# Indihome / ZTE Config Decoder & Encoder (Portable)
 
 Versi **portable & siap pakai** dari **Indihome / ZTE Config Decoder & Encoder Utility**.
 Tidak perlu install Python atau modul tambahan **cukup extract dan jalankan**.
