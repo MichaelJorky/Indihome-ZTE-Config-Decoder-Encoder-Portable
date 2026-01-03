@@ -85,7 +85,7 @@ Contoh argumen yang sering digunakan:
 ```
 --model F670L
 --serial ZTE123456789
---mac 44:59:43:02:7D:68
+--mac AA:BB:CC:11:22:33
 --signature "ZXHN F670L"
 ```
 
