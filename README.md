@@ -204,13 +204,6 @@ Penulis tidak bertanggung jawab atas penyalahgunaan.
 
 ---
 
-## 🙌 Kredit
-
-* Original Decoder & Encoder: **MichaelJorky**
-* Portable & UX Wrapper: **TeknoXpert**
-
----
-
 ## ⭐ Penutup
 
 Jika project ini membantu:
