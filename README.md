@@ -19,7 +19,24 @@ Project ini ditujukan untuk **pemula maupun advanced user** yang ingin:
 * ✅ Support payload **Type 0 – 6**
 * ✅ Advanced mode (full argumen via `--help`)
 * ✅ Output otomatis & aman
-* ✅ Cocok untuk router OEM ZTE (Indihome, Telkomsel One, PLDT, GLOBE, MyRepublic, Biznet, MNC Play, XL Satu)
+* ✅ Cocok untuk router OEM ZTE 2.4GHz & 5GHz
+
+### Estimasi Distribusi Perangkat ONT ZTE Dual-Band per Provider
+
+| Provider | Persentase Penggunaan ZTE | Perangkat Alternatif / Catatan |
+| :--- | :---: | :--- |
+| **IndiHome** | 85% - 90% | Dominan ZTE, sisanya Huawei/FiberHome. |
+| **PLDT (Filipina)** | 80% - 85% | Partner strategis ZTE di Filipina. |
+| **MNC Play** | 80% - 90% | Mayoritas infrastruktur berbasis ZTE. |
+| **GLOBE (Filipina)** | 70% - 75% | Menggunakan ZTE dan Huawei secara paralel. |
+| **MyRepublic** | 65% - 70% | Sering memberikan ZTE F670L untuk paket baru. |
+| **Oxygen.id** | 60% - 70% | Campuran antara ZTE dan FiberHome. |
+| **ICONNET** | 40% - 50% | Sangat bergantung pada vendor area lokal. |
+| **XL Home** | 30% - 40% | Lebih sering menggunakan FiberHome/Huawei. |
+| **Megavision** | 20% - 30% | Dominan FiberHome di banyak area. |
+| **Biznet** | 15% - 20% | Prioritas utama biasanya Huawei/FiberHome. |
+| **First Media** | 10% - 15% | Sebagian besar masih HFC (Non-ZTE). |
+| **iForte / Corpnet** | 10% - 15% | Segmen B2B, jarang menggunakan ONT standar. |
 
 ---
 
